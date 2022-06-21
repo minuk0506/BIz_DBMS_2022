@@ -163,7 +163,7 @@ Insert into TBL_STUDENT (ST_NUM,ST_NAME,ST_DEPT,ST_GRADE,ST_TEL,ST_ADDR) values 
 Insert into TBL_STUDENT (ST_NUM,ST_NAME,ST_DEPT,ST_GRADE,ST_TEL,ST_ADDR) values ('S0091','풍동해','사학과',1,'090-7800-5242','인천시 송도 커넬워크 3동 1층 156호');
 Insert into TBL_STUDENT (ST_NUM,ST_NAME,ST_DEPT,ST_GRADE,ST_TEL,ST_ADDR) values ('S0092','피태영','역사문화학과',4,'090-6252-4861','울산시 중구 태화동 593-17');
 Insert into TBL_STUDENT (ST_NUM,ST_NAME,ST_DEPT,ST_GRADE,ST_TEL,ST_ADDR) values ('S0093','필영후','전자공학',2,'090-6019-4506','경기도 고양시 일산구 주엽2동 22번지 지하2층');
-Insert into TBL_STUDENT (ST_NUM,ST_NAME,ST_DEPT,ST_GRADE,ST_TEL,ST_ADDR) values ('S0094','하재찬','자연과학',1,'090-7850-3152','경기도 용인시 기흥구 보라동 579-2');
+Insert into TBL_STUDENT (ST_NUM,ST_NAME,ST_DEPT,ST_GRADtbl_emsE,ST_TEL,ST_ADDR) values ('S0094','하재찬','자연과학',1,'090-7850-3152','경기도 용인시 기흥구 보라동 579-2');
 Insert into TBL_STUDENT (ST_NUM,ST_NAME,ST_DEPT,ST_GRADE,ST_TEL,ST_ADDR) values ('S0095','함민서','항공공학',3,'090-3335-5845','부산시 해운대구 좌동 1270-5 103호');
 Insert into TBL_STUDENT (ST_NUM,ST_NAME,ST_DEPT,ST_GRADE,ST_TEL,ST_ADDR) values ('S0096','해송혁','상담학',4,'090-6823-5528','경북 경주시 천군동 206-3');
 Insert into TBL_STUDENT (ST_NUM,ST_NAME,ST_DEPT,ST_GRADE,ST_TEL,ST_ADDR) values ('S0097','허시후','자동차공학',1,'090-3230-8481','경기도 남양주시 별내면 화점리 58-65');
