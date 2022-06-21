@@ -1,13 +1,13 @@
--- 여기는 관리자 화면
+-- �뿬湲곕뒗 愿�由ъ옄 �솕硫�
 -- C:\oraclexe\data
 
 /*
-오라클 DBMS에 데이터를 저장하고 관리하기 위한 절차
+�삤�씪�겢 DBMS�뿉 �뜲�씠�꽣瑜� ���옣�븯怨� 愿�由ы븯湲� �쐞�븳 �젅李�
 
-관리자 접속하여
-1. TableSpace 생성
-2.사용자생성 및 TableSpace 연결
-3. 사용자에게 권한부여
+愿�由ъ옄 �젒�냽�븯�뿬
+1. TableSpace �깮�꽦
+2.�궗�슜�옄�깮�꽦 諛� TableSpace �뿰寃�
+3. �궗�슜�옄�뿉寃� 沅뚰븳遺��뿬
 */
 CREATE TABLESPACE school
 DATAFILE 'C:/oraclexe/data/school.dbf'
