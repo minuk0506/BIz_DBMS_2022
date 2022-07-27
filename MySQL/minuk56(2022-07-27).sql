@@ -44,7 +44,7 @@ where b_name = "책faewfwe";
 
 update tbl_books
 set
-b_price = "30000"
+b_price = "50000"
 where b_isbn = "9791162540090";
 
 select * from tbl_books
